@@ -1,6 +1,6 @@
 # Simple-BMI_Calculator
 Testing App
-Create a BMI calculator using Swiftfunctions.
+Create a BMI calculator using Swift functions.
 
 The Body Mass Index (BMI) is a way of estimating the amount of body fat. It's used in medicine to calculate risk of heart disease.
 
