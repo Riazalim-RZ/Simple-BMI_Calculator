@@ -2,7 +2,7 @@
 Testing App
 Create a BMI calculator using Swift functions.
 
-The Body Mass Index (BMI) is a way of estimating the amount of body fat. It's used in medicine to calculate risk of heart disease.
+The Body Mass Index (BMI) is a way of estimating the amount of body fat.
 
 ___________________________________________________________________________________________________________________________________
 
