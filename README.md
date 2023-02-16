@@ -6,5 +6,4 @@ The Body Mass Index (BMI) is a way of estimating the amount of body fat.
 
 ___________________________________________________________________________________________________________________________________
 
-
-![137653299-1f04a115-7cd5-4f54-96eb-932dca849c33](https://user-images.githubusercontent.com/62168289/218723791-24f52e4f-98fd-4181-bb1e-61a9e4918b07.png)
+<img width="347" alt="Screenshot 2023-02-16 at 4 03 53 PM" src="https://user-images.githubusercontent.com/62168289/219347943-ba98040b-b062-4bb7-b4d9-c86ec71c2825.png">
